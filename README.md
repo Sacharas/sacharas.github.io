@@ -5,7 +5,28 @@
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 62.50%; padding-top: 0; height: 0;"><iframe title="Interactive image" frameborder="0" width="1200" height="750" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63733745fe026a00197b83a7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 
-
+<style>
+.button_1671520056511 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #87d435 !important;
+    color: #670093 !important;
+    border: 2px solid #0dffff !important;
+    border-radius: 34px !important;
+    font-size: 16px !important;
+    padding: 15px 50px !important; 
+    transition: all 0.8s ease !important;
+}
+.button_1671520056511:hover{
+    text-decoration: none !important; 
+    background-color: #006089 !important;
+    color: #ffeded !important;
+    border-color: #006089 !important;
+}
+</style>
+<a href="https://github.com/Sacharas/-051" class="button_1671520056511" target="_blank">
+  Я кнопка
+</a>
 
 
 
